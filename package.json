@@ -4,7 +4,8 @@
   "description": "The database for the superleague.website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon --exec babel-node src",
+    "test": "jest src"
   },
   "repository": {
     "type": "git",
@@ -13,6 +14,14 @@
   "author": "Mat <mat@daus.berlin>",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "^3.4.1"
+    "jest": "^24.9.0",
+    "mongodb": "^3.4.1",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/node": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "nodemon": "^2.0.2"
   }
 }
