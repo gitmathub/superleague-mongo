@@ -1,0 +1,675 @@
+{
+  "api": {
+    "results": 1,
+    "standings": [
+      [
+        {
+          "rank": 1,
+          "team_id": 5214,
+          "teamName": "ZESCO United",
+          "logo": "https://media.api-football.com/teams/5214.png",
+          "group": "Super League",
+          "forme": "DWWWW",
+          "status": "same",
+          "description": "CAF Champions League",
+          "all": {
+            "matchsPlayed": 10,
+            "win": 9,
+            "draw": 1,
+            "lose": 0,
+            "goalsFor": 22,
+            "goalsAgainst": 6
+          },
+          "home": {
+            "matchsPlayed": 6,
+            "win": 5,
+            "draw": 1,
+            "lose": 0,
+            "goalsFor": 12,
+            "goalsAgainst": 4
+          },
+          "away": {
+            "matchsPlayed": 4,
+            "win": 4,
+            "draw": 0,
+            "lose": 0,
+            "goalsFor": 10,
+            "goalsAgainst": 2
+          },
+          "goalsDiff": 16,
+          "points": 28,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 2,
+          "team_id": 5207,
+          "teamName": "NAPSA Stars",
+          "logo": "https://media.api-football.com/teams/5207.png",
+          "group": "Super League",
+          "forme": "DWWDW",
+          "status": "same",
+          "description": "CAF Champions League Qualifiers",
+          "all": {
+            "matchsPlayed": 12,
+            "win": 7,
+            "draw": 4,
+            "lose": 1,
+            "goalsFor": 16,
+            "goalsAgainst": 7
+          },
+          "home": {
+            "matchsPlayed": 6,
+            "win": 3,
+            "draw": 3,
+            "lose": 0,
+            "goalsFor": 8,
+            "goalsAgainst": 3
+          },
+          "away": {
+            "matchsPlayed": 6,
+            "win": 4,
+            "draw": 1,
+            "lose": 1,
+            "goalsFor": 8,
+            "goalsAgainst": 4
+          },
+          "goalsDiff": 9,
+          "points": 25,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 3,
+          "team_id": 5213,
+          "teamName": "Red Arrows",
+          "logo": "https://media.api-football.com/teams/5213.png",
+          "group": "Super League",
+          "forme": "DDWLL",
+          "status": "same",
+          "description": "CAF Confederation Cup",
+          "all": {
+            "matchsPlayed": 13,
+            "win": 7,
+            "draw": 4,
+            "lose": 2,
+            "goalsFor": 14,
+            "goalsAgainst": 10
+          },
+          "home": {
+            "matchsPlayed": 6,
+            "win": 5,
+            "draw": 0,
+            "lose": 1,
+            "goalsFor": 8,
+            "goalsAgainst": 4
+          },
+          "away": {
+            "matchsPlayed": 7,
+            "win": 2,
+            "draw": 4,
+            "lose": 1,
+            "goalsFor": 6,
+            "goalsAgainst": 6
+          },
+          "goalsDiff": 4,
+          "points": 25,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 4,
+          "team_id": 5200,
+          "teamName": "Green Eagles",
+          "logo": "https://media.api-football.com/teams/5200.png",
+          "group": "Super League",
+          "forme": "WDWDD",
+          "status": "up",
+          "description": "CAF Confederation Cup",
+          "all": {
+            "matchsPlayed": 12,
+            "win": 6,
+            "draw": 5,
+            "lose": 1,
+            "goalsFor": 15,
+            "goalsAgainst": 9
+          },
+          "home": {
+            "matchsPlayed": 6,
+            "win": 4,
+            "draw": 2,
+            "lose": 0,
+            "goalsFor": 11,
+            "goalsAgainst": 5
+          },
+          "away": {
+            "matchsPlayed": 6,
+            "win": 2,
+            "draw": 3,
+            "lose": 1,
+            "goalsFor": 4,
+            "goalsAgainst": 4
+          },
+          "goalsDiff": 6,
+          "points": 23,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 5,
+          "team_id": 5209,
+          "teamName": "Nkana",
+          "logo": "https://media.api-football.com/teams/5209.png",
+          "group": "Super League",
+          "forme": "DWWWW",
+          "status": "down",
+          "description": null,
+          "all": {
+            "matchsPlayed": 11,
+            "win": 6,
+            "draw": 3,
+            "lose": 2,
+            "goalsFor": 15,
+            "goalsAgainst": 7
+          },
+          "home": {
+            "matchsPlayed": 6,
+            "win": 3,
+            "draw": 2,
+            "lose": 1,
+            "goalsFor": 9,
+            "goalsAgainst": 4
+          },
+          "away": {
+            "matchsPlayed": 5,
+            "win": 3,
+            "draw": 1,
+            "lose": 1,
+            "goalsFor": 6,
+            "goalsAgainst": 3
+          },
+          "goalsDiff": 8,
+          "points": 21,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 6,
+          "team_id": 5199,
+          "teamName": "Green Buffaloes",
+          "logo": "https://media.api-football.com/teams/5199.png",
+          "group": "Super League",
+          "forme": "LWDWW",
+          "status": "same",
+          "description": null,
+          "all": {
+            "matchsPlayed": 12,
+            "win": 6,
+            "draw": 1,
+            "lose": 5,
+            "goalsFor": 12,
+            "goalsAgainst": 13
+          },
+          "home": {
+            "matchsPlayed": 6,
+            "win": 5,
+            "draw": 0,
+            "lose": 1,
+            "goalsFor": 9,
+            "goalsAgainst": 5
+          },
+          "away": {
+            "matchsPlayed": 6,
+            "win": 1,
+            "draw": 1,
+            "lose": 4,
+            "goalsFor": 3,
+            "goalsAgainst": 8
+          },
+          "goalsDiff": -1,
+          "points": 19,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 7,
+          "team_id": 5198,
+          "teamName": "Forest Rangers",
+          "logo": "https://media.api-football.com/teams/5198.png",
+          "group": "Super League",
+          "forme": "WWDLL",
+          "status": "same",
+          "description": null,
+          "all": {
+            "matchsPlayed": 12,
+            "win": 5,
+            "draw": 3,
+            "lose": 4,
+            "goalsFor": 11,
+            "goalsAgainst": 9
+          },
+          "home": {
+            "matchsPlayed": 7,
+            "win": 4,
+            "draw": 2,
+            "lose": 1,
+            "goalsFor": 9,
+            "goalsAgainst": 5
+          },
+          "away": {
+            "matchsPlayed": 5,
+            "win": 1,
+            "draw": 1,
+            "lose": 3,
+            "goalsFor": 2,
+            "goalsAgainst": 4
+          },
+          "goalsDiff": 2,
+          "points": 18,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 8,
+          "team_id": 5211,
+          "teamName": "Power Dynamos",
+          "logo": "https://media.api-football.com/teams/5211.png",
+          "group": "Super League",
+          "forme": "WWWDL",
+          "status": "up",
+          "description": null,
+          "all": {
+            "matchsPlayed": 12,
+            "win": 5,
+            "draw": 2,
+            "lose": 5,
+            "goalsFor": 12,
+            "goalsAgainst": 10
+          },
+          "home": {
+            "matchsPlayed": 5,
+            "win": 2,
+            "draw": 2,
+            "lose": 1,
+            "goalsFor": 5,
+            "goalsAgainst": 2
+          },
+          "away": {
+            "matchsPlayed": 7,
+            "win": 3,
+            "draw": 0,
+            "lose": 4,
+            "goalsFor": 7,
+            "goalsAgainst": 8
+          },
+          "goalsDiff": 2,
+          "points": 17,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 9,
+          "team_id": 5201,
+          "teamName": "Kabwe Warriors",
+          "logo": "https://media.api-football.com/teams/5201.png",
+          "group": "Super League",
+          "forme": "WLWLW",
+          "status": "down",
+          "description": null,
+          "all": {
+            "matchsPlayed": 11,
+            "win": 4,
+            "draw": 3,
+            "lose": 4,
+            "goalsFor": 11,
+            "goalsAgainst": 13
+          },
+          "home": {
+            "matchsPlayed": 5,
+            "win": 2,
+            "draw": 1,
+            "lose": 2,
+            "goalsFor": 6,
+            "goalsAgainst": 7
+          },
+          "away": {
+            "matchsPlayed": 6,
+            "win": 2,
+            "draw": 2,
+            "lose": 2,
+            "goalsFor": 5,
+            "goalsAgainst": 6
+          },
+          "goalsDiff": -2,
+          "points": 15,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 10,
+          "team_id": 5196,
+          "teamName": "Buildcon",
+          "logo": "https://media.api-football.com/teams/5196.png",
+          "group": "Super League",
+          "forme": "DDDLL",
+          "status": "same",
+          "description": null,
+          "all": {
+            "matchsPlayed": 12,
+            "win": 3,
+            "draw": 5,
+            "lose": 4,
+            "goalsFor": 11,
+            "goalsAgainst": 13
+          },
+          "home": {
+            "matchsPlayed": 5,
+            "win": 1,
+            "draw": 2,
+            "lose": 2,
+            "goalsFor": 3,
+            "goalsAgainst": 4
+          },
+          "away": {
+            "matchsPlayed": 7,
+            "win": 2,
+            "draw": 3,
+            "lose": 2,
+            "goalsFor": 8,
+            "goalsAgainst": 9
+          },
+          "goalsDiff": -2,
+          "points": 14,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 11,
+          "team_id": 5203,
+          "teamName": "Lumwana Radiants",
+          "logo": "https://media.api-football.com/teams/5203.png",
+          "group": "Super League",
+          "forme": "WLLWW",
+          "status": "up",
+          "description": null,
+          "all": {
+            "matchsPlayed": 12,
+            "win": 4,
+            "draw": 1,
+            "lose": 7,
+            "goalsFor": 10,
+            "goalsAgainst": 10
+          },
+          "home": {
+            "matchsPlayed": 6,
+            "win": 2,
+            "draw": 0,
+            "lose": 4,
+            "goalsFor": 4,
+            "goalsAgainst": 5
+          },
+          "away": {
+            "matchsPlayed": 6,
+            "win": 2,
+            "draw": 1,
+            "lose": 3,
+            "goalsFor": 6,
+            "goalsAgainst": 5
+          },
+          "goalsDiff": 0,
+          "points": 13,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 12,
+          "team_id": 7455,
+          "teamName": "Kansanshi Dynamos",
+          "logo": "https://media.api-football.com/teams/7455.png",
+          "group": "Super League",
+          "forme": "LLDDL",
+          "status": "down",
+          "description": null,
+          "all": {
+            "matchsPlayed": 12,
+            "win": 3,
+            "draw": 4,
+            "lose": 5,
+            "goalsFor": 9,
+            "goalsAgainst": 11
+          },
+          "home": {
+            "matchsPlayed": 6,
+            "win": 2,
+            "draw": 3,
+            "lose": 1,
+            "goalsFor": 5,
+            "goalsAgainst": 4
+          },
+          "away": {
+            "matchsPlayed": 6,
+            "win": 1,
+            "draw": 1,
+            "lose": 4,
+            "goalsFor": 4,
+            "goalsAgainst": 7
+          },
+          "goalsDiff": -2,
+          "points": 13,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 13,
+          "team_id": 5204,
+          "teamName": "Lusaka Dynamos",
+          "logo": "https://media.api-football.com/teams/5204.png",
+          "group": "Super League",
+          "forme": "DWLDL",
+          "status": "down",
+          "description": null,
+          "all": {
+            "matchsPlayed": 11,
+            "win": 3,
+            "draw": 3,
+            "lose": 5,
+            "goalsFor": 13,
+            "goalsAgainst": 14
+          },
+          "home": {
+            "matchsPlayed": 5,
+            "win": 3,
+            "draw": 1,
+            "lose": 1,
+            "goalsFor": 8,
+            "goalsAgainst": 2
+          },
+          "away": {
+            "matchsPlayed": 6,
+            "win": 0,
+            "draw": 2,
+            "lose": 4,
+            "goalsFor": 5,
+            "goalsAgainst": 12
+          },
+          "goalsDiff": -1,
+          "points": 12,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 14,
+          "team_id": 5215,
+          "teamName": "Zanaco",
+          "logo": "https://media.api-football.com/teams/5215.png",
+          "group": "Super League",
+          "forme": "LLDWD",
+          "status": "down",
+          "description": null,
+          "all": {
+            "matchsPlayed": 9,
+            "win": 3,
+            "draw": 2,
+            "lose": 4,
+            "goalsFor": 10,
+            "goalsAgainst": 11
+          },
+          "home": {
+            "matchsPlayed": 5,
+            "win": 3,
+            "draw": 1,
+            "lose": 1,
+            "goalsFor": 6,
+            "goalsAgainst": 4
+          },
+          "away": {
+            "matchsPlayed": 4,
+            "win": 0,
+            "draw": 1,
+            "lose": 3,
+            "goalsFor": 4,
+            "goalsAgainst": 7
+          },
+          "goalsDiff": -1,
+          "points": 11,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 15,
+          "team_id": 5210,
+          "teamName": "Nkwazi",
+          "logo": "https://media.api-football.com/teams/5210.png",
+          "group": "Super League",
+          "forme": "LDDLL",
+          "status": "down",
+          "description": null,
+          "all": {
+            "matchsPlayed": 11,
+            "win": 2,
+            "draw": 5,
+            "lose": 4,
+            "goalsFor": 5,
+            "goalsAgainst": 8
+          },
+          "home": {
+            "matchsPlayed": 5,
+            "win": 2,
+            "draw": 2,
+            "lose": 1,
+            "goalsFor": 4,
+            "goalsAgainst": 3
+          },
+          "away": {
+            "matchsPlayed": 6,
+            "win": 0,
+            "draw": 3,
+            "lose": 3,
+            "goalsFor": 1,
+            "goalsAgainst": 5
+          },
+          "goalsDiff": -3,
+          "points": 11,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 16,
+          "team_id": 5208,
+          "teamName": "Nakambala Leopards",
+          "logo": "https://media.api-football.com/teams/5208.png",
+          "group": "Super League",
+          "forme": "LDLLL",
+          "status": "same",
+          "description": "Relegation",
+          "all": {
+            "matchsPlayed": 12,
+            "win": 2,
+            "draw": 2,
+            "lose": 8,
+            "goalsFor": 9,
+            "goalsAgainst": 17
+          },
+          "home": {
+            "matchsPlayed": 7,
+            "win": 1,
+            "draw": 2,
+            "lose": 4,
+            "goalsFor": 4,
+            "goalsAgainst": 9
+          },
+          "away": {
+            "matchsPlayed": 5,
+            "win": 1,
+            "draw": 0,
+            "lose": 4,
+            "goalsFor": 5,
+            "goalsAgainst": 8
+          },
+          "goalsDiff": -8,
+          "points": 8,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 17,
+          "team_id": 5206,
+          "teamName": "Mufulira Wanderers",
+          "logo": "https://media.api-football.com/teams/5206.png",
+          "group": "Super League",
+          "forme": "LLLWD",
+          "status": "same",
+          "description": "Relegation",
+          "all": {
+            "matchsPlayed": 12,
+            "win": 2,
+            "draw": 1,
+            "lose": 9,
+            "goalsFor": 7,
+            "goalsAgainst": 20
+          },
+          "home": {
+            "matchsPlayed": 6,
+            "win": 1,
+            "draw": 0,
+            "lose": 5,
+            "goalsFor": 3,
+            "goalsAgainst": 10
+          },
+          "away": {
+            "matchsPlayed": 6,
+            "win": 1,
+            "draw": 1,
+            "lose": 4,
+            "goalsFor": 4,
+            "goalsAgainst": 10
+          },
+          "goalsDiff": -13,
+          "points": 7,
+          "lastUpdate": "2019-12-11"
+        },
+        {
+          "rank": 18,
+          "team_id": 5509,
+          "teamName": "Kabwe YSA",
+          "logo": "https://media.api-football.com/teams/5509.png",
+          "group": "Super League",
+          "forme": "DLLLL",
+          "status": "same",
+          "description": "Relegation",
+          "all": {
+            "matchsPlayed": 12,
+            "win": 1,
+            "draw": 3,
+            "lose": 8,
+            "goalsFor": 8,
+            "goalsAgainst": 22
+          },
+          "home": {
+            "matchsPlayed": 6,
+            "win": 1,
+            "draw": 2,
+            "lose": 3,
+            "goalsFor": 7,
+            "goalsAgainst": 9
+          },
+          "away": {
+            "matchsPlayed": 6,
+            "win": 0,
+            "draw": 1,
+            "lose": 5,
+            "goalsFor": 1,
+            "goalsAgainst": 13
+          },
+          "goalsDiff": -14,
+          "points": 6,
+          "lastUpdate": "2019-12-11"
+        }
+      ]
+    ]
+  }
+}
