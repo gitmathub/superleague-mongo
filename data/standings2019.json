@@ -1,0 +1,751 @@
+{
+  "api": {
+    "results": 2,
+    "standings": [
+      [
+        {
+          "rank": 1,
+          "team_id": 5214,
+          "teamName": "ZESCO United",
+          "logo": "https://media.api-football.com/teams/5214.png",
+          "group": "Super League: Group A",
+          "forme": "WLWWW",
+          "status": null,
+          "description": "Champion Play-off",
+          "all": {
+            "matchsPlayed": 18,
+            "win": 9,
+            "draw": 6,
+            "lose": 3,
+            "goalsFor": 35,
+            "goalsAgainst": 20
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 6,
+            "draw": 3,
+            "lose": 0,
+            "goalsFor": 25,
+            "goalsAgainst": 8
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 3,
+            "draw": 3,
+            "lose": 3,
+            "goalsFor": 10,
+            "goalsAgainst": 12
+          },
+          "goalsDiff": 15,
+          "points": 33,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 2,
+          "team_id": 5215,
+          "teamName": "Zanaco",
+          "logo": "https://media.api-football.com/teams/5215.png",
+          "group": "Super League: Group A",
+          "forme": "WDWLL",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 10,
+            "draw": 3,
+            "lose": 5,
+            "goalsFor": 40,
+            "goalsAgainst": 28
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 7,
+            "draw": 0,
+            "lose": 2,
+            "goalsFor": 24,
+            "goalsAgainst": 13
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 3,
+            "draw": 3,
+            "lose": 3,
+            "goalsFor": 16,
+            "goalsAgainst": 15
+          },
+          "goalsDiff": 12,
+          "points": 33,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 3,
+          "team_id": 5213,
+          "teamName": "Red Arrows",
+          "logo": "https://media.api-football.com/teams/5213.png",
+          "group": "Super League: Group A",
+          "forme": "WWLWW",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 9,
+            "draw": 6,
+            "lose": 3,
+            "goalsFor": 25,
+            "goalsAgainst": 15
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 5,
+            "draw": 3,
+            "lose": 1,
+            "goalsFor": 12,
+            "goalsAgainst": 5
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 4,
+            "draw": 3,
+            "lose": 2,
+            "goalsFor": 13,
+            "goalsAgainst": 10
+          },
+          "goalsDiff": 10,
+          "points": 33,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 4,
+          "team_id": 5201,
+          "teamName": "Kabwe Warriors",
+          "logo": "https://media.api-football.com/teams/5201.png",
+          "group": "Super League: Group A",
+          "forme": "LDDWD",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 7,
+            "draw": 10,
+            "lose": 1,
+            "goalsFor": 22,
+            "goalsAgainst": 13
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 4,
+            "draw": 4,
+            "lose": 1,
+            "goalsFor": 14,
+            "goalsAgainst": 9
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 3,
+            "draw": 6,
+            "lose": 0,
+            "goalsFor": 8,
+            "goalsAgainst": 4
+          },
+          "goalsDiff": 9,
+          "points": 31,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 5,
+          "team_id": 5204,
+          "teamName": "Lusaka Dynamos",
+          "logo": "https://media.api-football.com/teams/5204.png",
+          "group": "Super League: Group A",
+          "forme": "DWDWL",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 9,
+            "draw": 7,
+            "lose": 2,
+            "goalsFor": 23,
+            "goalsAgainst": 15
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 5,
+            "draw": 2,
+            "lose": 2,
+            "goalsFor": 12,
+            "goalsAgainst": 9
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 4,
+            "draw": 5,
+            "lose": 0,
+            "goalsFor": 11,
+            "goalsAgainst": 6
+          },
+          "goalsDiff": 8,
+          "points": 28,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 6,
+          "team_id": 5199,
+          "teamName": "Green Buffaloes",
+          "logo": "https://media.api-football.com/teams/5199.png",
+          "group": "Super League: Group A",
+          "forme": "DWLLD",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 4,
+            "draw": 8,
+            "lose": 6,
+            "goalsFor": 16,
+            "goalsAgainst": 16
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 3,
+            "draw": 4,
+            "lose": 2,
+            "goalsFor": 11,
+            "goalsAgainst": 6
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 1,
+            "draw": 4,
+            "lose": 4,
+            "goalsFor": 5,
+            "goalsAgainst": 10
+          },
+          "goalsDiff": 0,
+          "points": 20,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 7,
+          "team_id": 5206,
+          "teamName": "Mufulira Wanderers",
+          "logo": "https://media.api-football.com/teams/5206.png",
+          "group": "Super League: Group A",
+          "forme": "DDDWL",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 4,
+            "draw": 6,
+            "lose": 8,
+            "goalsFor": 15,
+            "goalsAgainst": 27
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 3,
+            "draw": 3,
+            "lose": 3,
+            "goalsFor": 9,
+            "goalsAgainst": 9
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 1,
+            "draw": 3,
+            "lose": 5,
+            "goalsFor": 6,
+            "goalsAgainst": 18
+          },
+          "goalsDiff": -12,
+          "points": 18,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 8,
+          "team_id": 5208,
+          "teamName": "Nakambala Leopards",
+          "logo": "https://media.api-football.com/teams/5208.png",
+          "group": "Super League: Group A",
+          "forme": "DLDLW",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 4,
+            "draw": 5,
+            "lose": 9,
+            "goalsFor": 12,
+            "goalsAgainst": 24
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 3,
+            "draw": 4,
+            "lose": 2,
+            "goalsFor": 10,
+            "goalsAgainst": 8
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 1,
+            "draw": 1,
+            "lose": 7,
+            "goalsFor": 2,
+            "goalsAgainst": 16
+          },
+          "goalsDiff": -12,
+          "points": 17,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 9,
+          "team_id": 5202,
+          "teamName": "Kitwe United",
+          "logo": "https://media.api-football.com/teams/5202.png",
+          "group": "Super League: Group A",
+          "forme": "LLDLL",
+          "status": null,
+          "description": "Relegation",
+          "all": {
+            "matchsPlayed": 18,
+            "win": 2,
+            "draw": 5,
+            "lose": 11,
+            "goalsFor": 14,
+            "goalsAgainst": 25
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 1,
+            "draw": 3,
+            "lose": 5,
+            "goalsFor": 5,
+            "goalsAgainst": 9
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 1,
+            "draw": 2,
+            "lose": 6,
+            "goalsFor": 9,
+            "goalsAgainst": 16
+          },
+          "goalsDiff": -11,
+          "points": 11,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 10,
+          "team_id": 5212,
+          "teamName": "Prison Leopards",
+          "logo": "https://media.api-football.com/teams/5212.png",
+          "group": "Super League: Group A",
+          "forme": "LDDLW",
+          "status": null,
+          "description": "Relegation",
+          "all": {
+            "matchsPlayed": 18,
+            "win": 1,
+            "draw": 6,
+            "lose": 11,
+            "goalsFor": 10,
+            "goalsAgainst": 29
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 0,
+            "draw": 5,
+            "lose": 4,
+            "goalsFor": 4,
+            "goalsAgainst": 10
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 1,
+            "draw": 1,
+            "lose": 7,
+            "goalsFor": 6,
+            "goalsAgainst": 19
+          },
+          "goalsDiff": -19,
+          "points": 9,
+          "lastUpdate": "2019-07-25"
+        }
+      ],
+      [
+        {
+          "rank": 1,
+          "team_id": 5200,
+          "teamName": "Green Eagles",
+          "logo": "https://media.api-football.com/teams/5200.png",
+          "group": "Super League: Group B",
+          "forme": "DWWDD",
+          "status": null,
+          "description": "Champion Play-off",
+          "all": {
+            "matchsPlayed": 18,
+            "win": 10,
+            "draw": 6,
+            "lose": 2,
+            "goalsFor": 22,
+            "goalsAgainst": 10
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 5,
+            "draw": 3,
+            "lose": 1,
+            "goalsFor": 13,
+            "goalsAgainst": 7
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 5,
+            "draw": 3,
+            "lose": 1,
+            "goalsFor": 9,
+            "goalsAgainst": 3
+          },
+          "goalsDiff": 12,
+          "points": 36,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 2,
+          "team_id": 5196,
+          "teamName": "Buildcon",
+          "logo": "https://media.api-football.com/teams/5196.png",
+          "group": "Super League: Group B",
+          "forme": "DDWDD",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 8,
+            "draw": 7,
+            "lose": 3,
+            "goalsFor": 21,
+            "goalsAgainst": 12
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 4,
+            "draw": 3,
+            "lose": 2,
+            "goalsFor": 12,
+            "goalsAgainst": 7
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 4,
+            "draw": 4,
+            "lose": 1,
+            "goalsFor": 9,
+            "goalsAgainst": 5
+          },
+          "goalsDiff": 9,
+          "points": 31,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 3,
+          "team_id": 5210,
+          "teamName": "Nkwazi",
+          "logo": "https://media.api-football.com/teams/5210.png",
+          "group": "Super League: Group B",
+          "forme": "DDDDD",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 7,
+            "draw": 8,
+            "lose": 3,
+            "goalsFor": 15,
+            "goalsAgainst": 12
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 3,
+            "draw": 5,
+            "lose": 1,
+            "goalsFor": 8,
+            "goalsAgainst": 7
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 4,
+            "draw": 3,
+            "lose": 2,
+            "goalsFor": 7,
+            "goalsAgainst": 5
+          },
+          "goalsDiff": 3,
+          "points": 29,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 4,
+          "team_id": 5198,
+          "teamName": "Forest Rangers",
+          "logo": "https://media.api-football.com/teams/5198.png",
+          "group": "Super League: Group B",
+          "forme": "LWDLL",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 7,
+            "draw": 5,
+            "lose": 6,
+            "goalsFor": 27,
+            "goalsAgainst": 24
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 4,
+            "draw": 2,
+            "lose": 3,
+            "goalsFor": 16,
+            "goalsAgainst": 13
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 3,
+            "draw": 3,
+            "lose": 3,
+            "goalsFor": 11,
+            "goalsAgainst": 11
+          },
+          "goalsDiff": 3,
+          "points": 26,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 5,
+          "team_id": 5207,
+          "teamName": "NAPSA Stars",
+          "logo": "https://media.api-football.com/teams/5207.png",
+          "group": "Super League: Group B",
+          "forme": "DDLDW",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 5,
+            "draw": 9,
+            "lose": 4,
+            "goalsFor": 21,
+            "goalsAgainst": 19
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 2,
+            "draw": 4,
+            "lose": 3,
+            "goalsFor": 10,
+            "goalsAgainst": 10
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 3,
+            "draw": 5,
+            "lose": 1,
+            "goalsFor": 11,
+            "goalsAgainst": 9
+          },
+          "goalsDiff": 2,
+          "points": 24,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 6,
+          "team_id": 5211,
+          "teamName": "Power Dynamos",
+          "logo": "https://media.api-football.com/teams/5211.png",
+          "group": "Super League: Group B",
+          "forme": "DDDDW",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 6,
+            "draw": 6,
+            "lose": 6,
+            "goalsFor": 19,
+            "goalsAgainst": 20
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 2,
+            "draw": 5,
+            "lose": 2,
+            "goalsFor": 10,
+            "goalsAgainst": 10
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 4,
+            "draw": 1,
+            "lose": 4,
+            "goalsFor": 9,
+            "goalsAgainst": 10
+          },
+          "goalsDiff": -1,
+          "points": 24,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 7,
+          "team_id": 5209,
+          "teamName": "Nkana",
+          "logo": "https://media.api-football.com/teams/5209.png",
+          "group": "Super League: Group B",
+          "forme": "LLDWD",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 5,
+            "draw": 8,
+            "lose": 5,
+            "goalsFor": 26,
+            "goalsAgainst": 27
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 3,
+            "draw": 2,
+            "lose": 4,
+            "goalsFor": 13,
+            "goalsAgainst": 16
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 2,
+            "draw": 6,
+            "lose": 1,
+            "goalsFor": 13,
+            "goalsAgainst": 11
+          },
+          "goalsDiff": -1,
+          "points": 23,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 8,
+          "team_id": 5203,
+          "teamName": "Lumwana Radiants",
+          "logo": "https://media.api-football.com/teams/5203.png",
+          "group": "Super League: Group B",
+          "forme": "DLDDD",
+          "status": null,
+          "description": null,
+          "all": {
+            "matchsPlayed": 18,
+            "win": 3,
+            "draw": 7,
+            "lose": 8,
+            "goalsFor": 14,
+            "goalsAgainst": 19
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 1,
+            "draw": 4,
+            "lose": 4,
+            "goalsFor": 4,
+            "goalsAgainst": 7
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 2,
+            "draw": 3,
+            "lose": 4,
+            "goalsFor": 10,
+            "goalsAgainst": 12
+          },
+          "goalsDiff": -5,
+          "points": 16,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 9,
+          "team_id": 5197,
+          "teamName": "Circuit City",
+          "logo": "https://media.api-football.com/teams/5197.png",
+          "group": "Super League: Group B",
+          "forme": "WDLDL",
+          "status": null,
+          "description": "Relegation",
+          "all": {
+            "matchsPlayed": 18,
+            "win": 4,
+            "draw": 4,
+            "lose": 10,
+            "goalsFor": 17,
+            "goalsAgainst": 27
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 4,
+            "draw": 0,
+            "lose": 5,
+            "goalsFor": 6,
+            "goalsAgainst": 10
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 0,
+            "draw": 4,
+            "lose": 5,
+            "goalsFor": 11,
+            "goalsAgainst": 17
+          },
+          "goalsDiff": -10,
+          "points": 16,
+          "lastUpdate": "2019-07-25"
+        },
+        {
+          "rank": 10,
+          "team_id": 5205,
+          "teamName": "Man Utd Zambia Academy",
+          "logo": "https://media.api-football.com/teams/5205.png",
+          "group": "Super League: Group B",
+          "forme": "WDDDL",
+          "status": null,
+          "description": "Relegation",
+          "all": {
+            "matchsPlayed": 18,
+            "win": 2,
+            "draw": 6,
+            "lose": 10,
+            "goalsFor": 8,
+            "goalsAgainst": 20
+          },
+          "home": {
+            "matchsPlayed": 9,
+            "win": 0,
+            "draw": 5,
+            "lose": 4,
+            "goalsFor": 2,
+            "goalsAgainst": 9
+          },
+          "away": {
+            "matchsPlayed": 9,
+            "win": 2,
+            "draw": 1,
+            "lose": 6,
+            "goalsFor": 6,
+            "goalsAgainst": 11
+          },
+          "goalsDiff": -12,
+          "points": 12,
+          "lastUpdate": "2019-07-25"
+        }
+      ]
+    ]
+  }
+}

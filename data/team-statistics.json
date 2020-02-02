@@ -1,0 +1,53 @@
+{
+  "api": {
+    "results": 1,
+    "statistics": {
+      "matchs": {
+        "matchsPlayed": {
+          "home": 9,
+          "away": 9,
+          "total": 18
+        },
+        "wins": {
+          "home": 6,
+          "away": 2,
+          "total": 8
+        },
+        "draws": {
+          "home": 3,
+          "away": 4,
+          "total": 7
+        },
+        "loses": {
+          "home": 0,
+          "away": 3,
+          "total": 3
+        }
+      },
+      "goals": {
+        "goalsFor": {
+          "home": 25,
+          "away": 8,
+          "total": 33
+        },
+        "goalsAgainst": {
+          "home": 8,
+          "away": 11,
+          "total": 19
+        }
+      },
+      "goalsAvg": {
+        "goalsFor": {
+          "home": "2.8",
+          "away": "0.9",
+          "total": "1.8"
+        },
+        "goalsAgainst": {
+          "home": "0.9",
+          "away": "1.2",
+          "total": "1.1"
+        }
+      }
+    }
+  }
+}
